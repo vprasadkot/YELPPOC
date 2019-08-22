@@ -1,2 +1,0 @@
-# YELPPOC
-Created with CodeSandbox
